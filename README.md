@@ -1,7 +1,7 @@
 
 ---
 
-### Descripción del Código
+### Descripción del código
 
 Este programa implementa operaciones básicas de teoría de conjuntos utilizando JFC. Se definen los siguientes métodos:
 
